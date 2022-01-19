@@ -7,3 +7,4 @@ Some dependencies
 Bumblebee
 Nerd-Fonts
 i3gaps
+OhMyBash
